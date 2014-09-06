@@ -1,0 +1,4 @@
+shinyMF
+=======
+
+Shiny for meteoForecast
